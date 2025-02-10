@@ -10,7 +10,7 @@
 
 - Olivier Barais
 - Haitam El Hayani
-- Haitam El hayani
+- Khaled Arsalane
 
 ---
 
@@ -53,6 +53,12 @@ Dans l’idéal, à fin du cours, vous maîtrisez l’ensemble de [ces concepts 
 
 - **Course 4**: De la notion de micro-services à la problématique de la gestion des APIs  
     Analyser l'architecture micro-services et les défis liés à la gestion et la sécurisation des APIs.
+     - Introduction à la notion d’application cloud native
+     - Notion de micro-services
+     - Des API Web bien définies
+     - Continuous Delivery
+     - Première conclusion sur la notion de Cloud Native
+
 ---
 
     
